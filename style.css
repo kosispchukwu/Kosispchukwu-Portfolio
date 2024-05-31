@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+}
+.fruits{
+    width:85%;
+    background-color:burlywood;
+    margin-left:auto;
+    margin-right:auto;
+    padding:100px;
+    max-width:500px;
+}
+h1{
+    color:black;
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+}
+p{
+    text-align:center;
+    color:black;
+}
+.items p{
+    display:inline-block;
+}
+.english{
+    text-align:left;
+    width: 30%;
+}
+.translation{
+    text-align:right;
+    width: 40%;
+}
